@@ -6,6 +6,8 @@
 wget -c https://example.com/directory/filename.extension --no-check-certificate
 ```
 
+<img width="1918" height="390" alt="image" src="https://github.com/user-attachments/assets/1bd8e4ea-7d52-4a5e-bd05-1d6eb7ec6751" />
+
 ```
 wget protocol://url.tld/
 ```
